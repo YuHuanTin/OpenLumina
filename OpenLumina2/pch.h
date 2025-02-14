@@ -16,4 +16,5 @@
 
 // windows
 #include "Windows.h"
+#include "TlHelp32.h"
 #include "wincrypt.h"
